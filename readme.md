@@ -1,5 +1,12 @@
 # Laravel Mix - Tailwindcss - Starter
 
+Clone the repo locally:
+
+```sh
+git clone git@github.com:gunharth/mix-tailwind-starter.git
+cd mix-tailwind-starter
+```
+
 Install NPM dependencies:
 
 ```sh
